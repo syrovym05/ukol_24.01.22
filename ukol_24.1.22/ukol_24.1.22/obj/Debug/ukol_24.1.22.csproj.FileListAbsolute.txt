@@ -1,0 +1,10 @@
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\bin\Debug\ukol_24.1.22.exe.config
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\bin\Debug\ukol_24.1.22.exe
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\bin\Debug\ukol_24.1.22.pdb
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24.1.22.csprojAssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24._1._22.Form1.resources
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24._1._22.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24.1.22.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24.1.22.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24.1.22.exe
+C:\Users\marsy\Source\Repos\ukol_24.1.22\ukol_24.1.22\obj\Debug\ukol_24.1.22.pdb
